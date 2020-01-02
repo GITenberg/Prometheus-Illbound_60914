@@ -1,0 +1,42 @@
+_repo: Prometheus-Illbound_60914
+_version: 0.0.1
+alternative_title: Le Prométhée mal enchaîné. English
+contributor:
+  translator:
+    agent_name: Rothermere, Mary Lilian Share Harmsworth, viscountess
+    aliases:
+    - Rothermere, Lilian, Viscountess
+    - Harmsworth, Mary Lilian Share, Viscountess Rothermere
+    deathdate: 1937
+    gutenberg_agent_id: '51184'
+    url: http://www.gutenberg.org/2009/agents/51184
+creator:
+  author:
+    agent_name: Gide, André
+    aliases:
+    - Gide, Andre
+    - Gide, André Paul Guillaume
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '2184'
+    url: http://www.gutenberg.org/2009/agents/2184
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Gide
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Gide
+description: ''
+gutenberg_issued: '2019-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60914'
+  lccn: '20000697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'Prometheus (Greek deity) -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Prometheus Illbound
+url: http://www.gutenberg.org/ebooks/60914
